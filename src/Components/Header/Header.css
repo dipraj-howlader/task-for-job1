@@ -6,6 +6,7 @@ grid-template-columns: repeat(3, 1fr);
 }
 .dropbtn {
     background-color: #191d28;
+    margin-top: 15px;
     color: white;
     padding: 8px;
     font-size: 16px;
@@ -48,3 +49,32 @@ grid-template-columns: repeat(3, 1fr);
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+  .number-p{
+      color: #38aeab;
+      margin-right: 10px;
+    margin-top: 10px;
+    padding: 5px;
+      border: 1px solid #38aeab;
+      border-radius: 50%;
+      box-shadow: gray;
+    height: 45px;
+
+  }
+  .text-p{
+    background-color: #38aeab;
+    margin-right: 10px;
+  margin-top: 10px;
+  padding: 5px;
+    border: 1px solid #38aeab;
+    border-radius: 10px;
+    box-shadow: gray;
+    height: 45px;
+  }
+  .view-bar{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    color:gray;
+
+  }
