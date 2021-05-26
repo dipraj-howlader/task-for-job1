@@ -5,5 +5,5 @@ div .curr-style{
     grid-template-columns: repeat(6,1fr);
 }
 div .curr-style p{
-    margin-right: 20px;
+    padding-right: 25px;
 }
