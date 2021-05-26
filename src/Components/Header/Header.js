@@ -14,17 +14,17 @@ return (
   <p style={{color:'gray'}}>Powered by <span style={{color:'#38aeab'}}>Finstreet</span></p>
   </div>
   <div>
-    <div class="dropdown">
-      <button class="dropbtn">INR🠗</button>
-      <div class="dropdown-content">
+    <div className="dropdown">
+      <button className="dropbtn">INR🠗</button>
+      <div className="dropdown-content">
         <a href="#">Link 1</a>
         <a href="#">Link 2</a>
         <a href="#">Link 3</a>
       </div>
       </div>
-      <div class="dropdown">
-        <button class="dropbtn">BTC🠗</button>
-        <div class="dropdown-content">
+      <div className="dropdown">
+        <button className="dropbtn">BTC🠗</button>
+        <div className="dropdown-content">
           <a href="#">Link 1</a>
           <a href="#">Link 2</a>
           <a href="#">Link 3</a>
